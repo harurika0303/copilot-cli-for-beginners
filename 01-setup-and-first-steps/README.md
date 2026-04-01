@@ -392,7 +392,7 @@ That's it for getting started! As you become comfortable, you can explore additi
 
 | Command | What It Does |
 |---------|--------------|
-| `/delegate` | Hand off task to Copilot cloud agent on GitHub |
+| `/delegate` | Hand off task to GitHub Copilot cloud agent |
 | `/fleet` | Split a complex task into parallel subtasks for faster completion |
 | `/model` | Show or switch AI model |
 | `/tasks` | View background subagents and detached shell sessions |
